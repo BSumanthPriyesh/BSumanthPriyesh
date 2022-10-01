@@ -24,11 +24,10 @@ Tech stack:
 • CSS
 
 Check out my other projects:
-      • Data Viz - https://public.tableau.com/app/profile/sumanthpriyesh
-      • Kaggle - https://www.kaggle.com/code/sumanthbolleddu/bellabeat-analysis-google-data-analytics
-
-- 📫 How to reach me 
-      LinkedIn - https://www.linkedin.com/in/sumanthpriyesh/
+• Kaggle - https://www.kaggle.com/code/sumanthbolleddu/bellabeat-analysis-google-data-analytics • Data Viz - https://public.tableau.com/app/profile/sumanthpriyesh
+      
+📫 How to reach me 
+  LinkedIn - https://www.linkedin.com/in/sumanthpriyesh/
       
 
 <!---
