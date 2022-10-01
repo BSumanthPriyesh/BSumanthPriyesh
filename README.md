@@ -26,8 +26,7 @@ Tech stack:
 Check out my other projects:
 • Kaggle - https://www.kaggle.com/code/sumanthbolleddu/bellabeat-analysis-google-data-analytics • Data Viz - https://public.tableau.com/app/profile/sumanthpriyesh
       
-📫 How to reach me 
-  LinkedIn - https://www.linkedin.com/in/sumanthpriyesh/
+📫 How to reach me - https://www.linkedin.com/in/sumanthpriyesh/
       
 
 <!---
