@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @BSumanthPriyesh.
+👋 Hi, I’m @BSumanthPriyesh.
+
 I'm currently a graduate student in Business Analytics and Information Systems at Muma College of Business, University of South Florida, and seeking opportunities in Data Analytics.
 
 I am a data-driven individual and I feel that data is something that's never gonna fade, it is the new oil. I'm fascinated by the countless possibilities happening with the data and how valuable insights are being derived from it. This fascination became my strength & goal and I want to leverage it more by becoming a part of this process through Data Analytics.
