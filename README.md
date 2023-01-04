@@ -6,7 +6,7 @@ I am a data-driven individual and I feel that data is something that's never gon
 
 I'm hard skilled at data analysis, querying, reporting, creating interactive dashboards, and programming.
 
-Professionally experienced in data migration/ETL as an EIM analyst at Magnitude and DMR.
+Professionally experienced in data migration/ETL.
 
 Tech stack:
 • SQL (Microsoft SQL Server, Google BigQuery, Oracle database, and MySQL)
