@@ -23,11 +23,10 @@ Tech stack:
 • HTML5
 • CSS
 
-Check out my other projects:
+📫 Check out my other projects:
 • Kaggle - https://www.kaggle.com/code/sumanthbolleddu/bellabeat-analysis-google-data-analytics • Data Viz - https://public.tableau.com/app/profile/sumanthpriyesh
       
-📫 How to reach me - https://www.linkedin.com/in/sumanthpriyesh/
-      
+     
 
 <!---
 BSumanthPriyesh/BSumanthPriyesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
