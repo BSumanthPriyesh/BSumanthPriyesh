@@ -1,4 +1,4 @@
-👋 Hi, I’m @BSumanthPriyesh.
+👋 Hi, I’m Sumanth Priyesh.
 
 I'm currently a graduate student in Business Analytics and Information Systems at Muma College of Business, University of South Florida, and seeking opportunities in Data Analytics.
 
