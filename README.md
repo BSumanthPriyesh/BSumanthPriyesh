@@ -1,22 +1,25 @@
 👋 Hi, I’m Sumanth Priyesh.
 
-I'm currently a graduate student in Business Analytics and Information Systems at Muma College of Business, University of South Florida, and seeking opportunities in Data Analytics.
-
 I am a data-driven individual and I feel that data is something that's never gonna fade, it is the new oil. I'm fascinated by the countless possibilities happening with the data and how valuable insights are being derived from it. This fascination became my strength & goal and I want to leverage it more by becoming a part of this process through Data Analytics.
 
-I'm hard skilled at data analysis, querying, reporting, creating interactive dashboards, and programming.
+A graduate student in Business Analytics and Information Systems at Muma College of Business, University of South Florida, and seeking opportunities in Data Analytics.
 
-Professionally experienced in data migration/ETL.
+Professionally experienced in data migration/ETL as a Data Engineer.
 
 Tech stack:
-• SQL (Microsoft SQL Server, Google BigQuery, Oracle database, and MySQL)
-• R programming (Packages: tidyverse, ggplot2, dplyr, tidyr, readr, lubridate, skimr, janitor)
+• Azure Cloud - Azure Data Factory, Azure Databricks, Azure SQL Database, Azure SQL Server, Azure 
+ Synapse Analytics, Azure Blob Storage, Azure Data Lake Storage Services, Azure Monitor, Azure DevOps
+• SQL (Microsoft SQL Server, Oracle, Google BigQuery, SQLite, and MySQL)
+• Apache Spark, PySpark, Spark SQL
 • Python (NumPy, pandas, matplotlib, seaborn, scikit-learn)
+• R programming (Packages: tidyverse, ggplot2, dplyr, tidyr, readr, lubridate, skimr, janitor)
+• SQL Server Management Studio
+• SQL Server Integration Services
 • Tableau and Tableau Prep Builder
-• Power BI
+• Power BI (M and DAX)
 • Jupyter
 • Spreadsheets (Excel and Google Sheets)
-• Microsoft Visio 2019
+• Microsoft Visio 
 • SAP BODS
 • C#
 • Java
